@@ -1,0 +1,19 @@
+Create a responsive one page localised website using the copy provided.
+The website must be available in the following locales: en_GB, cs_CZ, de_DE, ru_RU.
+
+-----------
+
+main_title:
+  Georgia
+  28px
+  #0068bf
+
+section_title:
+  Arial
+  40px
+  #363636
+
+copy:
+  Arial
+  14px
+  #363636

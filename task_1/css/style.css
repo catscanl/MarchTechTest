@@ -1,0 +1,59 @@
+html, body {
+	margin:0;
+}
+
+.jumbotron {
+	background-image:url('../images/hero.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: right; 
+	height:450px;
+	padding:0;
+}
+
+.container-fluid {
+	padding:0;
+}
+
+.block1 {
+	background-color: white;
+	height:300px;
+	margin-top:400px;
+}
+
+.block2 {
+	background-color: white;
+	height:300px;
+	margin-top:310px;
+}
+
+.block2 img {
+	width: 90%;
+	margin-left:40px;
+	padding-top:50px;
+}
+
+.block3 {
+	background-color: white;
+	height:300px;
+	margin-top:240px;
+}
+
+.main_title p {
+	font-family: Georgia;
+	font-size: 28px;
+	color: #0068bf;
+	padding-top:50px;
+ }
+
+.section_title p {
+	font-family: Arial;
+	font-size: 40px;
+	color: #363636;
+}
+
+.copy p {
+	font-family: Arial;
+	font-size: 14px;
+	color: #363636;
+}

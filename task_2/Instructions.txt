@@ -1,0 +1,1 @@
+There is a bug(s) in function.php  Identify and fix. 
